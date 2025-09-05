@@ -4,7 +4,9 @@ A React Native application that demonstrates a search functionality for categori
 
 ## Demo Video
 
-https://github.com/user-attachments/assets/Simulator%20Screen%20Recording%20-%20iPhone%2016%20Pro%20Max%20-%202025-09-05%20at%2018.05.12.mp4
+<video src="https://github.com/user-attachments/assets/Simulator%20Screen%20Recording%20-%20iPhone%2016%20Pro%20Max%20-%202025-09-05%20at%2018.05.12.mp4" controls width="100%">
+  Your browser does not support the video tag.
+</video>
 
 ## Features
 
