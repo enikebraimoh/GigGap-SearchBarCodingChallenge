@@ -1,0 +1,26 @@
+{
+  "users": [
+    "best_painter",
+    "no_1_car_mechanic",
+    "electrician",
+    "carpenter_pro",
+    "plumber_mike",
+    "auto_mechanic_joe",
+    "garden_expert",
+    "chef_sarah",
+    "uber_driver_tom",
+    "clean_pro_services"
+  ],
+  "categories": [
+    "Painter",
+    "Carpenter",
+    "Car Painter",
+    "Electrician",
+    "Plumber",
+    "Mechanic",
+    "Gardener",
+    "Chef",
+    "Driver",
+    "Cleaner"
+  ]
+}
